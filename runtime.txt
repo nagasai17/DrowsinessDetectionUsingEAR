@@ -1,0 +1,9 @@
+C:\Users\DELL\Downloads\VIT Downloads\CSE3001-Software Engineering\15833 - THENMOZHI T - SCOPE-A1\drowsiness-detection
+
+
+python detect_drowsiness.py --shape-predictor shape_predictor_68_face_landmarks.dat --alarm alarm.wav
+
+
+activate opencv-env
+
+https://www.learnopencv.com/install-opencv-3-and-dlib-on-windows-python-only/
